@@ -7,11 +7,13 @@
 - settimeout()
 
   - 최대 메모리 사용량 약 80.2Mb
+
     ![settimeout](https://user-images.githubusercontent.com/51048267/120077291-b5cb2d00-c0e4-11eb-95ca-c0e4e55c240c.png)
 
 - node-schedule scheduleJob()
 
   - 최대 메모리 사용량 약 291.6Mb
+
     ![node-schedule](https://user-images.githubusercontent.com/51048267/120077303-cbd8ed80-c0e4-11eb-9473-ae7f0d10d14a.png)
 
 - 결론
